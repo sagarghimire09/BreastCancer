@@ -1,0 +1,27 @@
+####
+Mammography is the process of using low-energy X-rays to examine the human breast for diagnosis and screening.
+The goal of mammography is the early detection of breast cancer.
+
+Breast cancer can be diagnosed by classifying tumors. There are two different types of
+tumors such as malignant and benign tumors
+
+####
+Afzan Adam[28] et al. have developed a computerized breast cancer diagnosis by
+combining genetic algorithm and Back propagation neural network which was developed as faster
+classifier model to reduce the diagnose time as well as increasing the accuracy in classifying mass
+in breast to either benign or malignant
+
+In Set A, it only eliminated records with missing values, while set B was trained
+with normal statistical cleaning process to identify any noisy or missing values. At last Set A gave
+100% of highest accuracy percentage and set B gave 83.36% of accuracy.
+
+Hence the author has
+concluded that medical data are best kept in its original value as it gives high accuracy percentage
+as compared to altered data.
+
+####
+Many researchers have applied the algorithm of neural networks for predicting cancers,especially the breast cancer.
+By going through various articles,RVM is applied for detecting optical cancer,ovarian cancer etc.
+
+
+####
